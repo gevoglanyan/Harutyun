@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @gevoglanyan
-- 😄 Pronouns: He/Him
+Hi, I’m @gevoglanyan
+Pronouns: He/Him
